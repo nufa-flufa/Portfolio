@@ -129,7 +129,7 @@ body {
     text-transform: uppercase;
     color: white;
     border: 0;
-    background-color: #fed136;
+    background-color: rgba(64, 222, 228, 0.9);
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
@@ -623,7 +623,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
-    background-color: #fed136;
+    border-color: rgb(27, 195, 201);
+    background-color: rgb(64, 222, 228);;
 }
 .flex-align-center {
     display: flex;
@@ -636,28 +637,28 @@ ul.social-buttons li a:hover {
 .btn-primary {
     font-weight: 700;
     color: white;
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: rgb(27, 195, 201);
+    background-color: rgb(64, 222, 228);
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
 .btn-primary.focus,
 .btn-primary:focus {
     color: white;
-    border-color: #b48b01;
-    background-color: #fec503;
+    border-color: rgb(27, 195, 201);
+    background-color: rgb(64, 222, 228);
 }
 .btn-primary:hover {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503;
+    border-color: rgb(27, 195, 201);
+    background-color: rgb(64, 222, 228);
 }
 .btn-primary.active,
 .btn-primary:active,
 .open > .btn-primary.dropdown-toggle {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503;
+    border-color: rgb(27, 195, 201);
+    background-color:rgb(64, 222, 228);
 }
 .btn-primary.active.focus,
 .btn-primary.active:focus,
@@ -686,11 +687,11 @@ ul.social-buttons li a:hover {
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color: rgba(64, 222, 228);
+    background-color: rgba(64, 222, 228);
 }
 .btn-primary .badge {
-    color: #fed136;
+    color: rgba(64, 222, 228);
     background-color: white;
 }
 .btn-xl {
@@ -707,8 +708,8 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl.focus,
 .btn-xl:focus {
     color: white;
-    border-color: #b48b01;
-    background-color: #fec503;
+    border-color: rgb(4, 178, 184)4, 222, 228, 0.9);
+    background-color: rgba(64, 222, 228, 0.9);
 }
 .btn-xl:hover {
     color: white;
@@ -749,11 +750,11 @@ fieldset[disabled] .btn-primary:hover {
 fieldset[disabled] .btn-xl.focus,
 fieldset[disabled] .btn-xl:focus,
 fieldset[disabled] .btn-xl:hover {
-    border-color: #fed136;
-    background-color: #fed136;
+    border-color:  rgba(64, 222, 228);
+    background-color:  rgba(64, 222, 228);
 }
 .btn-xl .badge {
-    color: #fed136;
+    color:  rgba(64, 222, 228);
     background-color: white;
 }
 
