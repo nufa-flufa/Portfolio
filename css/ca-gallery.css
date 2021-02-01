@@ -708,7 +708,7 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl.focus,
 .btn-xl:focus {
     color: white;
-    border-color: rgb(4, 178, 184)4, 222, 228, 0.9);
+    border-color: rgb(4, 178, 184);
     background-color: rgba(64, 222, 228, 0.9);
 }
 .btn-xl:hover {
