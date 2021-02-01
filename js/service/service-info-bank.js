@@ -30,7 +30,7 @@ var gProjs = [
         name: 'Ball Game',
         title: 'Collect them all as fast as you can',
         desc: 'In this game you need to clear the board from balls, which are added to the board evey few seconds. but be careful - there is a sticky feature and if you step on it you will freeze for 3 seconds. Are you up for the challenge?',
-        // url:'',
+        url:'https://nufa-flufa.github.io/Ball-Game/',
         publishedAt: 1610297629 ,
         lables: [],
     },
@@ -40,7 +40,7 @@ var gProjs = [
         name: 'Pacman',
         title: 'Afraid of the ghosts? come and kick their ass in this Pacman game!',
         desc: 'your main task is to collect all the food on the board, while dodging the ghosts roaming the game. If you manage to eat super food from the corners of the game you have 5 seconds in which you can eats the ghosts and they can do you no harm. you can also eat cherrys - thay don\'t give you super power, but you get extra points for them. the game ends when all the food is collected or you touched a ghost.',
-        // url:,
+        url:'https://nufa-flufa.github.io/Pacman/',
         publishedAt: 1610470429,
         lables: [],
 
@@ -51,7 +51,7 @@ var gProjs = [
         name:'Minesweeper',
         title:'Love live dangerously? come and find those mines',
         desc:'In this game your job is to find the mines hidden on the board. if you click a cell which is not a mine a number will appear. this number indicates how many mines awaites around that celland this is the clue for you to decide which next cell to click. You have a few extra features in this game to make ot more intresting: First of all, you can choose the level you want to play at. second, you get 3 chances in each game, so even if you stepped on a mine you don\'t lose just yet. next, you have the clue option, in which you can click a mine and see what the status with the other cells around him. and finally, there is a Safe-click button that can randomly show you a cell which is safe to click on. think you got it? Good-Luck!',
-        // url:,
+        url:'https://nufa-flufa.github.io/Minesweeper/',
         publishedAt: 1610643229,
         lables: [],
 
@@ -62,7 +62,7 @@ var gProjs = [
         name:'Tetris',
         title:'Try getting all those shapes in line',
         desc:'When the game start random shapes will start going down the screen. with the arrows next to the board (or the ones on you keyboard)you can move the shapes left, right and down until they hit the bottom.Once a shape stopped, it becomes the new bottom and a new shape will start going down next. Once the shapes pile to the top of the screen the game is over. Your job here is to orginize the shapes so they would complete whole rows. Once that happens the rows will disappear and the distance from the bottom to the top of the board will get bigger and allows you to continue playing. Up for the task? Go for it! ',
-        // url:,
+        url:'https://nufa-flufa.github.io/Tetris/',
         publishedAt:1608483229,
         lables: [],
 
