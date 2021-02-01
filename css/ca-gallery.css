@@ -719,8 +719,8 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl:active,
 .open > .btn-xl.dropdown-toggle {
     color: white;
-    border-color: #f6bf01;
-    background-color: #fec503;
+    border-color:rgba(64, 222, 228, 0.9);
+    background-color:  rgba(64, 222, 228, 0.9);
 }
 .btn-xl.active.focus,
 .btn-xl.active:focus,
